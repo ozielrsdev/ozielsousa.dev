@@ -5,15 +5,15 @@ import { SiMysql, SiPostman, SiSequelize } from 'react-icons/si'
 import { BiLogoPostgresql } from 'react-icons/bi'
 import { LiaFigma } from 'react-icons/lia'
 import { FaGitAlt } from 'react-icons/fa6'
-import Typewriter from 'typewriter-effect'
+// import Typewriter from 'typewriter-effect'
 import { motion } from 'framer-motion'
 import laptopAnimation from '../../components/animations/LaptopAnimation.json'
 import Lottie from 'lottie-react'
 import { Button } from '../../components/button'
 import { CiLinkedin } from 'react-icons/ci'
 import { FiGithub } from 'react-icons/fi'
-import { TbDownload } from 'react-icons/tb'
-import resume from '../../../public/resume-oziel.pdf'
+// import { TbDownload } from 'react-icons/tb'
+// import resume from '../../../public/resume-oziel.pdf'
 
 export const Home = () => {
   const containerVariants = {
